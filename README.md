@@ -1,3 +1,3 @@
-# About_Cars
-The website is about cars
+# Interesting information about automobiles/vehicles
+The website is about automobiles/vehicles
 ## Hi 
