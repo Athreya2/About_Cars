@@ -11,3 +11,6 @@ Engines are the reason you are able to move a 4000 pound metal box from one plac
 But, did you know that there are mainly <strong> two different types of engines </strong>
 <br>
 ![Internal Combustion Engine](IC_Engine.jpg)
+Simple, an IC Engine is where the combustion happens withing the piston itself (Used in our modern vehicles)
+<br>
+![External Combustion Engine](IC_Engine.jpg)
