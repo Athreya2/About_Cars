@@ -19,4 +19,8 @@ On the other hand, the Internal Combustion Engine has the combustion, that drive
 <h2> Within these Engines, there are other factors that can affect the amount of power generated, such as: Piston Congiurations, # of pistons, etc. </h2>
 The average car has 4 pistons working simultaneously in an Engine
 However, there are cars that have a higher number of pistons, that can deliver more horsepower compared to the latter.
-> Add a picture of a 4 piston engine and a engine with more...
+![V4 Engine](V4_Engine.jpg)
+This is your typical engine with 4 pistons
+![V12 Engine](V12_Engine.jpg)
+This engine has 12 pistons that work simultaneously to move the vehicle
+<br>
