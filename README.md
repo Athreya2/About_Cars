@@ -1,5 +1,5 @@
 <h1 align="center">
- Interesting information about automobiles/vehicles
+ Interesting information about automobiles/vehicles (and how the main components of the car are able to move this piece of metal)
 </h1>
 The website is about automobiles/vehicles
 <strong> This is a simplified explanation of all the components of a car. </strong>
@@ -36,3 +36,10 @@ To have a pictorial representation of the fuel systme in a car visit:
 The Transmission system's main purpose is to deliver the energy form the engine to the driveshaft (which delivers the energy to the wheels).
 ![Transmission](Transmission.jpg)
 [Transmission System](https://www.moogparts.com/parts-matter/failing-driveshaft.html)]
+<storng> The transmission currently is much more sophisticated and better than the type that is going to be explained </strong>
+At the heart of it, the transmission is a system of gears that deliver power to the Drive Shaft form the Engine Shaft through the countershaft. 
+The system of gears are required to limit the rpm/torque of the drive shaft. 
+First of all, when your car is in neutral gear, power is transmitted to the Countershaft, but is connected to the Drive Shaft with a freely rotating gear (which cannot move the Drive Shaft)
+Then, to swith to another gear, a clutch that is perpendicular to the rotation of the Engine and the drive shaftcan move between the Gap between them. as the clutch moves, it meshes in and out of other gears from the countershaft. Using the gear ratio of the gear on the clutch to the gear on the countershaft (which is powered through the Engine Shaft), you are able to change the torque and rpm of the Drive Shaft.
+<br>
+A general rule of thumb is that in a low gear, the torque is high and the rpm possible is low. On the other hand, in a high gear, the torque is low and the rpm possible is higher than the lower gears.
